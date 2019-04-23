@@ -15,11 +15,6 @@ function findLongestWord(str) {
 
         }
 
-        else {
-
-
-
-        }
 
     }
 
